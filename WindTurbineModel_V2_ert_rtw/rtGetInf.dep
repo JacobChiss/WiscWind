@@ -1,0 +1,11 @@
+rtGetInf.o: \
+ C:\Users\WEI\Documents\GitHub\WiscWind\WindTurbineModel_V2_ert_rtw\rtGetInf.c \
+ C:\Users\WEI\Documents\GitHub\WiscWind\WindTurbineModel_V2_ert_rtw\rtwtypes.h \
+ C:\Users\WEI\Documents\GitHub\WiscWind\WindTurbineModel_V2_ert_rtw\rtGetInf.h \
+ C:\Users\WEI\Documents\GitHub\WiscWind\WindTurbineModel_V2_ert_rtw\rt_nonfinite.h
+
+C:\Users\WEI\Documents\GitHub\WiscWind\WindTurbineModel_V2_ert_rtw\rtwtypes.h:
+
+C:\Users\WEI\Documents\GitHub\WiscWind\WindTurbineModel_V2_ert_rtw\rtGetInf.h:
+
+C:\Users\WEI\Documents\GitHub\WiscWind\WindTurbineModel_V2_ert_rtw\rt_nonfinite.h:
